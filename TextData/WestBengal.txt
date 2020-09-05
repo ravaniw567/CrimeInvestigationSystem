@@ -1,0 +1,23 @@
+<option>Alipurduar</option>
+<option>Bankura</option>
+<option>Birbhum</option>
+<option>Cooch Behar</option>
+<option>Dakshin Dinajpur (South Dinajpur)</option>
+<option>Darjeeling</option>
+<option>Hooghly</option>
+<option>Howrah</option>
+<option>Jalpaiguri</option>
+<option>Jhargram</option>
+<option>Kalimpong</option>
+<option>Kolkata</option>
+<option>Malda</option>
+<option>Murshidabad</option>
+<option>Nadia</option>
+<option>North 24 Parganas</option>
+<option>Paschim Medinipur (West Medinipur)</option>
+<option>Paschim (West) Burdwan (Bardhaman)</option>
+<option>Purba Burdwan (Bardhaman)</option>
+<option>Purba Medinipur (East Medinipur)</option>
+<option>Purulia</option>
+<option>South 24 Parganas</option>
+<option>Uttar Dinajpur (North Dinajpur)</option>

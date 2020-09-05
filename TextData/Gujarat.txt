@@ -1,0 +1,33 @@
+<option >Ahmedabad</option>
+	<option >Amreli</option>
+	<option >Anand</option>
+	<option >Aravalli</option>
+	<option >Banaskantha (Palanpur)</option>
+	<option >Bharuch</option>
+	<option >Bhavnagar</option>
+	<option >Botad</option>
+	<option >Chhota Udepur</option>
+	<option >Dahod</option>
+	<option >Dangs (Ahwa)</option>
+	<option >Devbhoomi Dwarka</option>
+	<option >Gandhinagar</option>
+	<option >Gir Somnath</option>
+	<option >Jamnagar</option>
+	<option >Junagadh</option>
+	<option >Kachchh</option>
+	<option >Kheda (Nadiad)</option>
+	<option >Mahisagar</option>
+	<option >Mehsana</option>
+	<option >Morbi</option>
+	<option >Narmada (Rajpipla)</option>
+	<option >Navsari</option>
+	<option >Panchmahal (Godhra)</option>
+	<option >Patan</option>
+	<option >Porbandar</option>
+	<option >Rajkot</option>
+	<option >Sabarkantha (Himmatnagar)</option>
+	<option >Surat</option>
+	<option >Surendranagar</option>
+	<option >Tapi (Vyara)</option>
+	<option >Vadodara</option>
+	<option >Valsad</option>

@@ -1,0 +1,2 @@
+<option>Daman</option>
+<option>Diu</option>

@@ -1,0 +1,27 @@
+<option >Balod</option>
+   <option >Baloda Bazar</option>
+   <option >Balrampur</option>
+   <option >Bastar</option>
+   <option >Bemetara</option>
+   <option >Bijapur</option>
+   <option >Bilaspur</option>
+   <option >Dantewada (South Bastar)</option>
+   <option >Dhamtari</option>
+   <option >Durg</option>
+   <option >Gariyaband</option>
+   <option >Janjgir-Champa</option>
+   <option >Jashpur</option>
+   <option >Kabirdham (Kawardha)</option>
+   <option >Kanker (North Bastar)</option>
+   <option >Kondagaon</option>
+   <option >Korba</option>
+   <option >Korea (Koriya)</option>
+   <option >Mahasamund</option>
+   <option >Mungeli</option>
+   <option >Narayanpur</option>
+   <option >Raigarh</option>
+   <option >Raipur</option>
+   <option >Rajnandgaon</option>
+   <option >Sukma</option>
+   <option >Surajpur</option>
+   <option >Surguja</option>

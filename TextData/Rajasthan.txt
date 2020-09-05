@@ -1,0 +1,35 @@
+<option>Ajmer</option>
+<option>Alwar</option>
+<option>Banswara</option>
+<option>Baran</option>
+<option>Barmer</option>
+<option>Bharatpur</option>
+<option>Bhilwara</option>
+<option>Bikaner</option>
+<option>Bundi</option>
+<option>Chittorgarh</option>
+<option>Churu</option>
+<option>Dausa</option>
+<option>Dholpur</option>
+<option>Dungarpur</option>
+<option>Hanumangarh</option>
+<option>J-R</option>
+<option>Jaipur</option>
+<option>Jaisalmer</option>
+<option>Jalore</option>
+<option>Jhalawar</option>
+<option>Jhunjhunu</option>
+<option>Jodhpur</option>
+<option>Karauli</option>
+<option>Kota</option>
+<option>Nagaur</option>
+<option>Pali</option>
+<option>Pratapgarh</option>
+<option>Rajsamand</option>
+<option>S-Z</option>
+<option>Sawai Madhopur</option>
+<option>Sikar</option>
+<option>Sirohi</option>
+<option>Sri Ganganagar</option>
+<option>Tonk</option>
+<option>Udaipur</option>

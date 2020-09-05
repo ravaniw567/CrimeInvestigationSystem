@@ -1,0 +1,23 @@
+
+	<option >Anantnag</option>
+	<option >Bandipore</option>
+	<option >Baramulla</option>
+	<option >Budgam</option>
+	<option >Doda</option>
+	<option >Ganderbal</option>
+	<option >Jammu</option>
+	<option >Kargil</option>
+	<option >Kathua</option>
+	<option >Kishtwar</option>
+	<option >Kulgam</option>
+	<option >Kupwara</option>
+	<option >Leh</option>
+	<option >Poonch</option>
+	<option >Pulwama</option>
+	<option >Rajouri</option>
+	<option >Ramban</option>
+	<option >Reasi</option>
+	<option >Samba</option>
+	<option >Shopian</option>
+	<option >Srinagar</option>
+	<option >Udhampur</option>

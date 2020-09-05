@@ -1,0 +1,4 @@
+<option>Kargil</option>
+<option>Leh</option>
+<option>Gilgit</option>
+<option>Skardu</option>

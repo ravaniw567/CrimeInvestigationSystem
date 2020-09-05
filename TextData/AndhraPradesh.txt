@@ -1,0 +1,13 @@
+    <option >Anantapur</option>
+    <option>Chittoor</option>
+    <option>East Godavari</option>
+    <option>Guntur</option>
+    <option>Krishna</option>
+    <option>Kurnool</option>
+    <option>Prakasam</option>
+    <option >Srikakulam</option>
+    <option >Sri Potti Sriramulu Nellore</option>
+    <option >Visakhapatnam</option>
+    <option >Vizianagaram</option>
+    <option >West Godavari</option>
+    <option >YSR District, Kadapa (Cuddapah)</option>

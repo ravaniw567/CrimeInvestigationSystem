@@ -1,0 +1,13 @@
+
+	<option >Bilaspur</option>
+	<option >Chamba</option>
+	<option >Hamirpur</option>
+	<option >Kangra</option>
+	<option >Kinnaur</option>
+	<option >Kullu</option>
+	<option >Lahaul & Spiti</option>
+	<option >Mandi</option>
+	<option >Shimla</option>
+	<option >Sirmaur (Sirmour)</option>
+	<option >Solan</option>
+	<option >Una</option>

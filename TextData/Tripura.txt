@@ -1,0 +1,8 @@
+<option>Dhalai</option>
+<option>Gomati</option>
+<option>Khowai</option>
+<option>North Tripura</option>
+<option>Sepahijala</option>
+<option>South Tripura</option>
+<option>Unakoti</option>
+<option>West Tripura</option>
